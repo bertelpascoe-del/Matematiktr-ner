@@ -1,6 +1,6 @@
 streamlit==1.23.0  # Update to the latest version if needed
 sympy==1.11.1      # Update to the latest version if needed
-numpy==1.25.0      # Update to the latest version if needed
+numpy==1.26.0      # Update to the latest version if needed
 pandas==1.4.2     # Update to the latest version if needed
 matplotlib==3.5.1  # Update to the latest version if needed
 plotly==5.9.0     # Update to the latest version if needed
